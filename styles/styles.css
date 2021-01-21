@@ -134,8 +134,8 @@ span {
 }
 #Banner {
   position: relative;
-  height: 100vh;
-  background-image: url(/images/avion.jpg);
+  height: 80vh;
+  background-image: url(https://media.lesechos.com/api/v1/images/view/5c659fca8fe56f78a8351385/1280x720/060694702705-web-tete.jpg);
   color: #fff;
 }
 #Banner .content-wrap {

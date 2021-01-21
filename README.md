@@ -1,15 +1,12 @@
-# Proyecto-de-Aerolineas
-# Título del Proyecto
+# Descripcion
+Proyecto para una aerolinea de low cost, era un avance para presentar pero
+el proyecto se cayo
 
-Un pagina Web informativa sobre la aerolinea low cost
+# Tecnologias usadas 
 
-## Despliegue 📦
+    Fully Responsive
+    HTML5 + CSS3
+    Built on Bootstrap v4.1.0
+    600+ FontAwesome icons
+    Compatible with all modern browsers
 
-El deploy se hizo en el hosting 
-
-## Construido con 🛠️
-
-* HTML5
-* CSS
-* JavaScript 
-* Bootstrap- Framerwork de CSS
